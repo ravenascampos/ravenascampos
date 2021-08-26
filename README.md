@@ -9,7 +9,6 @@
   <a href="https://github.com/ravenascampos">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ravenascampos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenascampos&layout=compact&langs_count=7&theme=synthwave"/>
-     <img align="right" alt="ravena-ruiva" height="150" width="150" src="https://i.picasion.com/pic91/ab6a00d05dbd067c40e4bc04cfdd153c.gif">
 </div>
   
 <div style="display: inline_block"><br>
@@ -18,6 +17,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="right" alt="ravena-ruiva" height="150" width="150" src="https://i.picasion.com/pic91/ab6a00d05dbd067c40e4bc04cfdd153c.gif">
 </div>
   
   ##
