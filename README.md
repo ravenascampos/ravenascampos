@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/ravenascampos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravenascampos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenascampos&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ravenascampos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenascampos&layout=compact&langs_count=7&theme=synthwave"/>
      <img align="right" alt="ravena-ruiva" height="180" width="180" src="https://i.picasion.com/pic91/2da8e10318aae280ec01f2cfd2d9f2c6.gif">
 </div>
   
@@ -24,5 +24,4 @@
 <div>
   <a href="https://www.linkedin.com/in/ravenascampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div>
-  
-![Snake animation](https://github.com/ravenascampos/blob/output/github-contribution-grid-snake.svg)
+
