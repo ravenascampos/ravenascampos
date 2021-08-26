@@ -9,7 +9,7 @@
   <a href="https://github.com/ravenascampos">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ravenascampos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenascampos&layout=compact&langs_count=7&theme=synthwave"/>
-     <img align="right" alt="ravena-ruiva" height="170" width="170" src="https://i.picasion.com/pic91/ab6a00d05dbd067c40e4bc04cfdd153c.gif">
+     <img align="right" alt="ravena-ruiva" height="150" width="150" src="https://i.picasion.com/pic91/ab6a00d05dbd067c40e4bc04cfdd153c.gif">
 </div>
   
 <div style="display: inline_block"><br>
