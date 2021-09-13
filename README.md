@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Ravena
-(mas não a dos jovens titãs)
+(mas não a dos jovens titãs hahahah)
 
 - 🔭 Em transição de carreira
 - 🌱 Estudando desenvolvimento Front-end e mobile
