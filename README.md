@@ -2,7 +2,7 @@
 (mas não a dos jovens titãs hahahah)
 
 - 🔭 Em transição de carreira, saindo da área do direito para me aventurar nesse novo mundo Tech
-- 🌱 Estudando desenvolvimento Front-end
+- 🌱 Estudando desenvolvimento FullStack
 - 😄 Pronomes: ela\dela
 
 <div>
