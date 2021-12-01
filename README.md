@@ -27,7 +27,6 @@
 </div>
 
 <div><br>
-  <img align="right" alt="ravena-ruiva" height="150" width="150" src="https://i.picasion.com/pic91/ab6a00d05dbd067c40e4bc04cfdd153c.gif">
   <h2>Networking</h2>
   <a href="https://www.linkedin.com/in/ravenascampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
