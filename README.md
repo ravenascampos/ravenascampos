@@ -5,7 +5,7 @@
 - 🌱 Estudando desenvolvimento FullStack
 - 😄 Pronomes: ela\dela
 
-<div>
+<div align="center">
   <a href="https://github.com/ravenascampos">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=ravenascampos&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravenascampos&layout=compact&langs_count=7&theme=synthwave"/>
@@ -30,6 +30,6 @@
   <h2>Networking</h2>
   <a href="https://www.linkedin.com/in/ravenascampos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
- ![Snake animation](https://github.com/ravenascampos/ravenascampos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ravenascampos/ravenascampos/blob/output/github-contribution-grid-snake.svg)
 </div>
 
