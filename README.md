@@ -2,7 +2,7 @@
 (mas não a dos jovens titãs hahahah)
 
 - 🔭 Desenvolvedora Front-end Jr na Accenture Brasil
-- 🌱 Estudando desenvolvimento FullStack
+- 🌱 Estudando desenvolvimento Front-end e Mobile
 - 😄 Pronomes: ela\dela
 
 <div align="center">
