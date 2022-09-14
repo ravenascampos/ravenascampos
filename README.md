@@ -1,9 +1,13 @@
+<div align="center">
+<img align="center" alt="luffy one piece" src="https://i.pinimg.com/originals/2b/d2/1a/2bd21a2dc9b3eb8f77cd60ac3f44ab83.gif"/>
+</div>
 <h1> Olá! Eu sou a Ravena </h1>
 (mas não a dos jovens titãs hahahah)
 
-- 🔭 Desenvolvedora Front-end Jr na Accenture Brasil
-- 🌱 Estudando desenvolvimento Front-end e Mobile
-- 😄 Pronomes: ela\dela
+- Desenvolvedora Front-end Jr na Accenture Brasil
+- Estudando desenvolvimento Front-end e Mobile
+- Pronomes: ela\dela
+- Fã de One Piece
 
 <div align="center">
   <a href="https://github.com/ravenascampos">
