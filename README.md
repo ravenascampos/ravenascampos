@@ -4,7 +4,7 @@
 <h1> Olá! Eu sou a Ravena </h1>
 (mas não a dos jovens titãs hahahah)
 
-- Desenvolvedora Front-end Jr na Accenture Brasil
+- Desenvolvedora Front-end Jr
 - Estudando desenvolvimento Front-end e Mobile
 - Pronomes: ela\dela
 - Fã de One Piece
