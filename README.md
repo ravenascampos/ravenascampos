@@ -7,7 +7,7 @@
 - Desenvolvedora Front-end Jr
 - Estudando desenvolvimento Front-end e Mobile
 - Pronomes: ela\dela
-- Fã de One Piece
+- Fã de One Piece e World of Warcraft
   
 <div style="display: inline_block"><br>
   <h2> Conhecimentos </h2>
