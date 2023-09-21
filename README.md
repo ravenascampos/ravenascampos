@@ -4,7 +4,7 @@
 <h1> Olá! Eu sou a Ravena </h1>
 (mas não a dos jovens titãs hahahah)
 
-- Desenvolvedora Front-end Jr
+- Desenvolvedora Front-end
 - Estudando desenvolvimento Front-end e Mobile
 - Pronomes: ela\dela
 - Fã de One Piece e World of Warcraft
