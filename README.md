@@ -8,6 +8,7 @@
 - Estudando desenvolvimento Front-end e Mobile
 - Pronomes: ela\dela
 - Fã de One Piece e World of Warcraft
+- Amo montar quebra-cabeça
   
 <div style="display: inline_block"><br>
   <h2> Conhecimentos </h2>
